@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player_bullet
+  - unpaused_bullet
+  - paused_bullet
+  - player_missile
+  - missile_gun
+  - handgun
+  - weapon
+  - enemy_1
+  - enemy_bullet_1
+  - item_hp
+  - player_sniper
+  - sniper_gun
+  - item_heal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MonsterBulletLayer
+  - MonsterLayer
+  - PlayerBulletLayer
+  - PlayerLayer
+  - ItemLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Obstacle
+  - Map
+  - Minimap
+  - BigMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
